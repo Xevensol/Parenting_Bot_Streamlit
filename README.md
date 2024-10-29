@@ -34,3 +34,8 @@ The Parenting Bot Application is a simple yet effective chatbot designed to assi
    OPENAI_API_KEY=your_openai_api_key_here
 
 
+To run the application, use the following command:
+streamlit run app.py
+
+
+
