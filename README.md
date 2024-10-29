@@ -24,13 +24,15 @@ The Parenting Bot Application is a simple yet effective chatbot designed to assi
    cd <repository-directory>
 
 2. Create a virtual environment (optional but recommended):
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install the required packages:
+
+4. Install the required packages:
    pip install -r requirements.txt
 
-4. Create a .env file in the root directory and add your OpenAI API key:
+5. Create a .env file in the root directory and add your OpenAI API key:
    OPENAI_API_KEY=your_openai_api_key_here
 
 
